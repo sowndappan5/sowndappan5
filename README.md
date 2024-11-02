@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on **AI-Powered Fire Detection & Distance Estimation System**
 - 🌱 I'm currently learning **OpenCV, AI, ML**
-- 👨‍💻 My Portfolio [https://sowndappan.netlify.app/](https://sowndappan.netlify.app/)
+- 👨‍💻 My Portfolio [Click](https://sowndappan5.github.io/My_Portfolio/)
 - 💬 Ask me about **Python, C, Data Structures, Frontend**
 - 📫 How to reach me **santoshsowndappan@gmail.com**
 - 📄 Know about my experiences [My CV](https://sowndappan.netlify.app/assets/Sowndappan_CV.pdf)
