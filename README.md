@@ -7,10 +7,9 @@
 
 - 🔭 I'm currently working on **AI-Powered Fire Detection & Distance Estimation System**
 - 🌱 I'm currently learning **OpenCV, AI, ML**
-- 👨‍💻 My Portfolio [Click](https://sowndappan5.github.io/My_Portfolio/)
+- 👨‍💻 My Portfolio [Click](https://sowndappan5.github.io/Portfolio_Latest/)
 - 💬 Ask me about **Python, C, Data Structures, Frontend**
 - 📫 How to reach me **santoshsowndappan@gmail.com**
-- 📄 Know about my experiences [My CV](https://sowndappan.netlify.app/assets/Sowndappan_CV.pdf)
 - ⚡ Fun fact **I can code in three languages while drinking coffee!**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +19,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/sowndappan" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.hackerrank.com/profile/sowndappan610" style="display: inline-block;"><img src="https://img.shields.io/badge/hackerrank-logo?style=for-the-badge&logo=hackerrank&logoColor=white&color=%2300EA64" alt="hackerrank" /></a>
 <a target="_blank" href="https://leetcode.com/u/sowndappan610/" style="display: inline-block;"><img src="https://img.shields.io/badge/leetcode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23FFA116" alt="leetcode" /></a>
-<a target="_blank" href="https://twitter.com/Santosh005s" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 </p>
 </p>
 
