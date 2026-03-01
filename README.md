@@ -1,89 +1,73 @@
-<h1 align="center">Hi 👋, I'm Sowndappan</h1>
-<h3 align="center">👨‍💻 IT Student | AI & ML Enthusiast | Proficient in Java, Python, and C | Open Source Contributor 🚀 | Turning Code into Solutions 🌈</h3>
+<h1 align="center">Hi, I'm Sowndappan 👋</h1>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sowndappan5&label=Profile%20views&color=0e75b6&style=flat" alt="sowndappan5" />
-</p>
-
-- 🔭 I'm currently working on **AI-Powered Fire Detection & Distance Estimation System**
-- 🌱 I'm currently learning **OpenCV, AI, ML**
-- 👨‍💻 My Portfolio: [Click Here](https://sowndappan5.github.io/Portfolio_Latest/)
-- 💬 Ask me about **Python, C, Data Structures, Frontend**
-- 📫 How to reach me: **santoshsowndappan@gmail.com**
-- ⚡ Fun fact: **I can code in three languages while drinking coffee!**
+<h3 align="center">
+AI Systems Builder • Agentic AI • Autonomous Workflows • Intelligent Automation
+</h3>
 
 ---
 
-### 💬 Connect With Me
+## 🧠 About Me
 
-<p align="left">
-  <a href="mailto:santoshsowndappan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
-  <a href="https://www.linkedin.com/in/sowndappan" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/sowndappan610" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
-  </a>
-  <a href="https://leetcode.com/u/sowndappan610/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
-  </a>
-  <a href="https://sowndappan5.github.io/Portfolio_Latest/" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-website-orange?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
-  </a>
-</p>
+I build AI systems that move beyond static applications toward adaptive and autonomous behavior.  
+My work focuses on **agentic AI**, **intelligent automation**, and **real-world learning systems** that incorporate feedback, reasoning, and decision-making.
+
+I am particularly interested in developing systems that:
+- learn from interaction
+- execute tasks autonomously
+- combine perception, planning, and memory
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Current Focus
 
-#### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-#### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-#### ⚙️ Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-#### 🔗 API Integration
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20API-black?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-#### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-#### 🧠 AI, ML & DL
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-#### 👁️‍🗨️ Computer Vision
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv5-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+- Agentic AI & Autonomous Agents  
+- LLM Workflows & AI Automation  
+- Context-Aware Intelligent Systems  
+- Scalable AI System Design  
 
 ---
+
+## 🛠 Tech Stack
+
+### Languages
+Python • Java • C • JavaScript
+
+### AI & Data
+PyTorch • Scikit-Learn • Pandas • NumPy • LLM Integration
+
+### AI Systems & Automation
+LangChain • LangGraph • n8n • REST APIs • Gemini API
+
+### Backend & Web
+Flask • React • HTML • CSS
+
+### Databases
+MySQL • MongoDB
+
+### Tools
+Git • Linux • Docker
+
+---
+
+## 🔬 Selected Projects
+
+**CampusCareer — Adaptive Learning Intelligence System**
+- AI-driven platform generating personalized placement preparation paths
+- Implements feedback-driven learning adaptation
+
+**Monocular Perception & Distance Estimation**
+- Hardware-free object distance estimation using camera perception and calibration logic
+
+**Autonomous Job Search Agent**
+- Agent-based workflow automating job discovery, analysis, and outreach
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/sowndappan
+- Email: santoshsowndappan@gmail.com
+
+---
+
+⭐ Always building systems that **act, adapt, and automate**.
